@@ -1,14 +1,10 @@
-## Blog Post Title From First Header
+# Paid CTF 2024
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+This is a CTF even that I competed in individually and it ran from 4/12/2024  5PM EST until 4/14/2024 5PM EST
 
 ---
 
-### This is a header
+## Solved Questions
 
 #### Some T-SQL Code
 
@@ -18,6 +14,7 @@ SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
 FROM dbo.SomeTable s
     CROSS JOIN dbo.OtherTable o;
 ```
+
 
 #### Some PowerShell Code
 
